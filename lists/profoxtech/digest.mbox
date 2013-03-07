@@ -1,0 +1,303 @@
+From nobody Wed Mar  6 19:50:41 2013
+X-Original-To: profoxxtproxynn7@leafe.com
+Delivered-To: profoxxtproxynn7@leafe.com
+Received: from [10.180.18.19] (localhost [127.0.0.1])
+ by mail.leafe.com (Postfix) with ESMTP id AEF6D18070;
+ Wed,  6 Mar 2013 19:50:38 -0600 (CST)
+X-Original-To: profox@leafe.com
+Delivered-To: profox@leafe.com
+Received: from mta6.srv.hcvlny.cv.net (mta6.srv.hcvlny.cv.net [167.206.4.212])
+ by mail.leafe.com (Postfix) with ESMTP id 532D71806A
+ for <profox@leafe.com>; Wed,  6 Mar 2013 19:50:37 -0600 (CST)
+Received: from [192.168.1.103]
+ (ool-44c5d1bc.dyn.optonline.net [68.197.209.188]) by mta6.srv.hcvlny.cv.net
+ (Sun Java System Messaging Server 6.2-9.20 (built Jul 15 2010))
+ with ESMTP id <0MJ900EJ4P3XQ0M0@mta6.srv.hcvlny.cv.net> for profox@leafe.com; 
+ Wed, 06 Mar 2013 20:50:22 -0500 (EST)
+Date: Wed, 06 Mar 2013 20:50:21 -0500
+X-Forwarded-By: DIRECT POST
+From: "Kurt @ VR-FX" <vrfx@optonline.net>
+Subject: Re: Screen Res. Design & Monitor Sizes...
+In-reply-to: <45FF87B0A06D4695BC13286CB90AC91C@jerryfootePC>
+To: profoxtech@leafe.com
+Message-id: <5137F25D.8020202@optonline.net>
+MIME-version: 1.0
+References: <C91D77CF809F48C8BE6B54B066129238@Programming2>
+ <4E2025A263AD40A3B0BC179EB2DBFFB4@Programming2>
+ <5136E37A.30309@hawthorncottage.com> <51374EAC.8020404@wanadoo.fr>
+ <BDC46039B3B54D60A1A78EE641691A59@Programming2>
+ <DF1EEF11E586A64FB54A97F22A8BD0442188CB910D@ACKBWDDQH1.artfact.local>
+ <244455EE91EA42E3B16707164DEE5AD9@Programming2>
+ <DF1EEF11E586A64FB54A97F22A8BD0442188CB9120@ACKBWDDQH1.artfact.local>
+ <54D30A7615EC4C87833C5C1B30169C59@Programming2>
+ <DF1EEF11E586A64FB54A97F22A8BD0442188CB912A@ACKBWDDQH1.artfact.local>
+ <B6CECF565EC8401A9C93A0B2B5CEED97@Programming2>
+ <DF1EEF11E586A64FB54A97F22A8BD0442188CB913C@ACKBWDDQH1.artfact.local>
+ <220657CB2CB64F47B1C9D9502AEFBF0D@Programming2>
+ <A8FE97033BF848518D77EA66CAB04426@jerryfootePC>
+ <222FB461D26349FDAAD46073E959E9C3@Programming2>
+ <86A3EE1C34E246DE9A02D6EC67C5BB2C@jerryfootePC>
+ <FFD2E20315D54FFC90DAE5B223F2CAAC@jerryfootePC>
+ <5137DCCD.5050105@optonline.net>
+ <45FF87B0A06D4695BC13286CB90AC91C@jerryfootePC>
+User-Agent: Mozilla/5.0 (Windows NT 6.0; rv:17.0) Gecko/20130215
+ Thunderbird/17.0.3
+X-BeenThere: profox@leafe.com
+X-Mailman-Version: 2.1.15
+Precedence: list
+X-Spambayes-Classification: ham; 0.00
+X-Forwarded-By: OT filtering script
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="us-ascii"; Format="flowed"
+X-BeenThere: profoxtech@leafe.com
+Reply-To: profox@leafe.com
+List-Id: OT-free ProFox <profoxtech.leafe.com>
+List-Unsubscribe: <http://mail.leafe.com/mailman/options/profoxtech>,
+ <mailto:profoxtech-request@leafe.com?subject=unsubscribe>
+List-Help: <mailto:profoxtech-request@leafe.com?subject=help>
+List-Subscribe: <http://mail.leafe.com/mailman/listinfo/profoxtech>,
+ <mailto:profoxtech-request@leafe.com?subject=subscribe>
+
+Well then - U got me by the Short Hairs!
+
+:-)
+
+
+On 3/6/2013 8:18 PM, jerry foote wrote:
+> The only ocx is MSOUTL32.OCX and that if for one tab in the demo form.
+> Jerry
+>
+> -----Original Message-----
+> From: ProFox [mailto:profox-bounces@leafe.com] On Behalf Of Kurt @ VR-FX
+> Sent: Wednesday, March 06, 2013 6:18 PM
+> To: profox@leafe.com
+> Subject: Re: Screen Res. Design & Monitor Sizes...
+>
+> Jerry - the OCX was in the ZIP file with the wmResizer!
+>
+> -K-
+>
+>
+> On 3/6/2013 5:42 PM, jerry foote wrote:
+>> There is no ocx (that I know of) in the resizer.
+>> Jerry
+>>
+>> -----Original Message-----
+>> From: ProFox [mailto:profox-bounces@leafe.com] On Behalf Of Richard Kaye
+>> Sent: Wednesday, March 06, 2013 2:00 PM
+>> To: profox@leafe.com
+>> Subject: RE: Screen Res. Design & Monitor Sizes...
+>>
+>> I believe the invalid message is referring to the OCX. Have you made sure
+>> the OCX is in your search path?
+>>
+>> --
+>> rk
+>>
+>>
+>> -----Original Message-----
+>> From: ProfoxTech [mailto:profoxtech-bounces@leafe.com] On Behalf Of jerry
+>> foote
+>> Sent: Wednesday, March 06, 2013 1:24 PM
+>> To: profoxtech@leafe.com
+>> Subject: RE: Screen Res. Design & Monitor Sizes...
+>>
+>> Yes when I just open fox and "do form test" it works When I compile (with
+> no
+>> errors) to exe and try to run it I get the Class name is invalid Jerry
+>>
+>> -----Original Message-----
+>> From: ProFox [mailto:profox-bounces@leafe.com] On Behalf Of Kurt
+>> Sent: Wednesday, March 06, 2013 12:20 PM
+>> To: profox@leafe.com
+>> Subject: RE: Screen Res. Design & Monitor Sizes...
+>>
+>> Based upon what you wrote - it looks like you did things slightly out of
+>> order. The VCX should be added to the Proj. 1st - then drag the mwresize
+>> object from the VCX within the Project onto your Form.
+>>
+>> Not sure why it says its Invalid. When you say the Form RUNS - do you mean
+>> that you can actually resize it - and everything On the Form ALSO
+> Resizes???
+>> -K-
+>>
+>>
+>> -----Original Message-----
+>> From: ProfoxTech [mailto:profoxtech-bounces@leafe.com] On Behalf Of jerry
+>> foote
+>> Sent: Wednesday, March 06, 2013 1:09 PM
+>> To: profoxtech@leafe.com
+>> Subject: RE: Screen Res. Design & Monitor Sizes...
+>>
+>> I followed you instructions and got the vcx on the form.
+>> I compiled the vcx
+>> I added it back to the project
+>> I compiled the project
+>> When I execute the exe I get error "Class name is invalid"
+>> The form runs and everything works fine
+>>
+>> What is wrong now?
+>> Thanks Jerry
+>>
+>> -----Original Message-----
+>> From: ProFox [mailto:profox-bounces@leafe.com] On Behalf Of Kurt
+>> Sent: Wednesday, March 06, 2013 11:57 AM
+>> To: profox@leafe.com
+>> Subject: RE: Screen Res. Design & Monitor Sizes...
+>>
+>> OK - I just re-compiled it as you suggested - and now I didn't get the
+>> Error.
+>>
+>> And, yes - the VCX is in my Libs folder. I just Removed it from Project -
+>> and Added it back in. I even opened up Proj as a DBF and issued PACK
+>> command. Recompiled project ran it - and get the same error:
+>> 	Cannot find C:\Libs\mwresize.vcx
+>>
+>> -K-
+>>
+>> -----Original Message-----
+>> From: ProfoxTech [mailto:profoxtech-bounces@leafe.com] On Behalf Of
+> Richard
+>> Kaye
+>> Sent: Wednesday, March 06, 2013 12:44 PM
+>> To: profoxtech@leafe.com
+>> Subject: RE: Screen Res. Design & Monitor Sizes...
+>>
+>> Do you have it in your project? If so, what does it show as the path? Put
+> it
+>> in your libs folder with the rest of your classes and add it back to the
+>> project. PACK or clean up the project.
+>>
+>> COMPILE CLASSLIB will fix the last one.
+>>
+>> --
+>> rk
+>>
+>> -----Original Message-----
+>> From: ProfoxTech [mailto:profoxtech-bounces@leafe.com] On Behalf Of Kurt
+>> Sent: Wednesday, March 06, 2013 12:26 PM
+>> To: profoxtech@leafe.com
+>> Subject: RE: Screen Res. Design & Monitor Sizes...
+>>
+>> I deleted the VCX from the MyStuff folder. So - 1st time around - now even
+>> when testing on my C: drive - I get the error about can't find VCX in the
+>> MyStuff folder. I then removed that Resizer object I dropped on the Form,
+>> and this time - I directly Drag&Dropped it from the Class within the
+>> Project. Now - although I still get the same error "... can't find VCX" -
+>> but, strangely enough - it claims:
+>> 	Cannot find C:\Libs\mwresize.vcx
+>>
+>> In fact - its located here:
+>> 	c:\aims401w_04\libs\mwresize.vcx
+>>
+>> So - that Libs folder is NOT at the root of C: drive like the error thinks
+>> it should be!
+>>
+>> Lastly - you suggested I recompile the VCX - but, when I ran this line:
+>> 	compile c:\aims401w_04\libs\mwresize.vcx
+>>
+>> I get error msg.: Cannot create file c:\aims401w_04\libs\mwresize.vcx.
+>>
+>> TIA 4 Ur Help!
+>>
+>>
+[excessive quoting removed by server]
+
+_______________________________________________
+Post Messages to: ProFox@leafe.com
+Subscription Maintenance: http://mail.leafe.com/mailman/listinfo/profox
+OT-free version of this list: http://mail.leafe.com/mailman/listinfo/profoxtech
+Searchable Archive: http://leafe.com/archives/search/profox
+This message: http://leafe.com/archives/byMID/profox/5137F25D.8020202@optonline.net
+** All postings, unless explicitly stated otherwise, are the opinions of the author, and do not constitute legal or medical advice. This statement is added to the messages for those lawyers who are too stupid to see the obvious.
+
+
+From nobody Wed Mar  6 23:08:50 2013
+X-Original-To: profoxxtproxynn7@leafe.com
+Delivered-To: profoxxtproxynn7@leafe.com
+Received: from [10.180.18.19] (localhost [127.0.0.1])
+ by mail.leafe.com (Postfix) with ESMTP id 4E04518070;
+ Wed,  6 Mar 2013 23:08:48 -0600 (CST)
+X-Original-To: profox@leafe.com
+Delivered-To: profox@leafe.com
+Received: from mail-ie0-f171.google.com (mail-ie0-f171.google.com
+ [209.85.223.171])
+ by mail.leafe.com (Postfix) with ESMTPS id 539501806A
+ for <profox@leafe.com>; Wed,  6 Mar 2013 23:08:47 -0600 (CST)
+Received: by mail-ie0-f171.google.com with SMTP id 10so97290ied.2
+ for <profox@leafe.com>; Wed, 06 Mar 2013 21:08:46 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113; 
+ h=mime-version:x-received:in-reply-to:references:date:message-id
+ :subject:from:to:content-type;
+ bh=DmAimhEf7HOzJeJDiFm42/hLVMXHc9wAdn3xhLLTsoM=;
+ b=qsaqwlEHH5Vpebaj9M2w/qOSfjuNG+IUj5JRRQyF06D5Pk8H8tMUt+TzDaMWsWAAcq
+ LmP1tI9yLk1Ia31GDmhcRJQRtE2K6wr13zV2RCgJkb+iPQfO9Mrl8rTCBkIzvf+apo+L
+ rUKEdt5bmVwuYf0GPEY6ZqGQhy5PtdvuJH+S5Js6E3Hwj/kW6f76a3xwZx8gqCsQapOm
+ nIFaICst+tWiswwOsbksM/uNdq+RoAACjVJX1rZiAvXDhC7TnZqpFGeMcSU064o3JgRI
+ 0R8sWAOdcIOEs0rbn5JZ1KqCMwGENQQoyCnQTNXfdanfS8P78lXGWcPYOov6yS9mzvGe
+ 53hw==
+MIME-Version: 1.0
+X-Received: by 10.43.4.74 with SMTP id ob10mr33722835icb.28.1362632926653;
+ Wed, 06 Mar 2013 21:08:46 -0800 (PST)
+Received: by 10.64.14.17 with HTTP; Wed, 6 Mar 2013 21:08:46 -0800 (PST)
+In-Reply-To: <5137DCAB.8010603@optonline.net>
+References: <20130306225900.C5DH7.28158.root@cdptpa-web06-z02>
+ <5137DCAB.8010603@optonline.net>
+Date: Wed, 6 Mar 2013 22:08:46 -0700
+Message-ID: <CAJCBksoj2CiYMSgWe_R0PN0-Weg4XAgYafM-8-isj1ww1diunA@mail.gmail.com>
+Subject: Re: Screen Res. Design & Monitor Sizes...
+X-Forwarded-By: DIRECT POST
+From: Fred Taylor <fbtaylor@gmail.com>
+To: profoxtech@leafe.com
+X-StripMime: Non-text section removed by stripmime
+X-BeenThere: profox@leafe.com
+X-Mailman-Version: 2.1.15
+Precedence: list
+X-Spambayes-Classification: ham; 0.00
+X-Forwarded-By: OT filtering script
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="us-ascii"
+X-BeenThere: profoxtech@leafe.com
+Reply-To: profox@leafe.com
+List-Id: OT-free ProFox <profoxtech.leafe.com>
+List-Unsubscribe: <http://mail.leafe.com/mailman/options/profoxtech>,
+ <mailto:profoxtech-request@leafe.com?subject=unsubscribe>
+List-Help: <mailto:profoxtech-request@leafe.com?subject=help>
+List-Subscribe: <http://mail.leafe.com/mailman/listinfo/profoxtech>,
+ <mailto:profoxtech-request@leafe.com?subject=subscribe>
+
+Barney Miller was the show,  Abe Vigoda was Detective Fish.
+
+Fred
+
+
+On Wed, Mar 6, 2013 at 5:17 PM, Kurt @ VR-FX <vrfx@optonline.net> wrote:
+
+> Yeah - I recognize THAT name - from an old TV Show - I was thinking like
+> Welcome Back Kotter - But, I think he was from an old Cop show of sort. So
+> - what was Abe in?
+>
+> On 3/6/2013 5:59 PM, dcovill@san.rr.com wrote:
+>
+>> ---- Kurt <kurt@isssusa.com> wrote:
+>>
+>>> But - I hear ya. I hate it - since, in a little over a week - on St.
+>>> Pat's
+>>> day - I hit the big FIVE-0...
+>>>
+>> I was 50 once.  But it didn't work out!
+>>
+>> Dan Covill
+>> (joke courtesy of Abe Vigoda)
+>>
+[excessive quoting removed by server]
+
+_______________________________________________
+Post Messages to: ProFox@leafe.com
+Subscription Maintenance: http://mail.leafe.com/mailman/listinfo/profox
+OT-free version of this list: http://mail.leafe.com/mailman/listinfo/profoxtech
+Searchable Archive: http://leafe.com/archives/search/profox
+This message: http://leafe.com/archives/byMID/profox/CAJCBksoj2CiYMSgWe_R0PN0-Weg4XAgYafM-8-isj1ww1diunA@mail.gmail.com
+** All postings, unless explicitly stated otherwise, are the opinions of the author, and do not constitute legal or medical advice. This statement is added to the messages for those lawyers who are too stupid to see the obvious.
+
+

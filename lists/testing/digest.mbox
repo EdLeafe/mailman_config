@@ -1,0 +1,498 @@
+From edleafe@gmail.com  Wed Sep 12 15:28:08 2012
+Return-Path: <edleafe@gmail.com>
+X-Original-To: testing@edleafe.us
+Delivered-To: testing@edleafe.us
+Received: from mail-yw0-f46.google.com (mail-yw0-f46.google.com
+ [209.85.213.46])
+ by mailserver.edleafe.us (Postfix) with ESMTPS id EFB611805A
+ for <testing@edleafe.us>; Wed, 12 Sep 2012 15:28:07 +0000 (UTC)
+Received: by yhmm54 with SMTP id m54so425261yhm.5
+ for <testing@edleafe.us>; Wed, 12 Sep 2012 08:28:05 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+ h=from:content-type:content-transfer-encoding:subject:message-id:date
+ :to:mime-version:x-mailer;
+ bh=uW0WzEtFZr/+kho7uzx1Egnz50Z0GBjmkjZI60YEeQs=;
+ b=0uJTQ3pNKP/bahJEWgNAfujLAaP3dfnkL9k/IPYcDwgpnYDSyeXmIaaIg0he7VReqi
+ lW+ajdtuS780mxz2SRphafn5DrwffnA2bejDa9Q1ZRY48CiE3TODwHacEOKQQrNsUQKp
+ qZWu/fPtQDFHV6bczTI0R6WJiTNINvlZNFHu2zmCgYp7Ja3MEGb5ahVbaKdz7tSX/Tm3
+ Z+RhE8U1x2tbzm6KFM26nPyEQZRn1MzixdzZzLJx1Ah6FgJRuWpsD4vr1nEBAGAFeDt6
+ fyVK3mTvOh2ZamG3PUVhURXxjBNznQ+xbl9gJuf6SHOoLEukdTRyHyZrUUC4NVEEebbj
+ fbZA==
+Received: by 10.100.84.3 with SMTP id h3mr6374280anb.56.1347463685249;
+ Wed, 12 Sep 2012 08:28:05 -0700 (PDT)
+Received: from mgm6aedv7m.rackspace.com ([50.56.228.48])
+ by mx.google.com with ESMTPS id o11sm16487064anj.20.2012.09.12.08.28.04
+ (version=TLSv1/SSLv3 cipher=OTHER);
+ Wed, 12 Sep 2012 08:28:04 -0700 (PDT)
+From: Ed Leafe <edleafe@gmail.com>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Message-Id: <6CA92683-AE9E-4328-A73F-99ED7171ACE9@gmail.com>
+Date: Wed, 12 Sep 2012 10:28:02 -0500
+To: testing@edleafe.us
+Mime-Version: 1.0 (Mac OS X Mail 6.0 \(1486\))
+X-Mailer: Apple Mail (2.1486)
+X-Mailman-Approved-At: Wed, 12 Sep 2012 18:56:21 +0000
+Subject: [Testing] third post
+X-BeenThere: testing@edleafe.us
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: <testing.edleafe.us>
+List-Unsubscribe: <http://mailserver/mailman/options/testing>,
+ <mailto:testing-request@edleafe.us?subject=unsubscribe>
+List-Archive: <http://mailserver/pipermail/testing/>
+List-Post: <mailto:testing@edleafe.us>
+List-Help: <mailto:testing-request@edleafe.us?subject=help>
+List-Subscribe: <http://mailserver/mailman/listinfo/testing>,
+ <mailto:testing-request@edleafe.us?subject=subscribe>
+
+totally awesome if this works!
+
+-- Ed
+
+From edleafe@gmail.com  Wed Sep 12 15:36:04 2012
+Return-Path: <edleafe@gmail.com>
+X-Original-To: testing@edleafe.us
+Delivered-To: testing@edleafe.us
+Received: from mail-ie0-f174.google.com (mail-ie0-f174.google.com
+ [209.85.223.174])
+ by mailserver.edleafe.us (Postfix) with ESMTPS id EFAC01805A
+ for <testing@edleafe.us>; Wed, 12 Sep 2012 15:36:03 +0000 (UTC)
+Received: by ieje11 with SMTP id e11so3508175iej.5
+ for <testing@edleafe.us>; Wed, 12 Sep 2012 08:36:01 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+ h=from:content-type:content-transfer-encoding:subject:message-id:date
+ :to:mime-version:x-mailer;
+ bh=uW0WzEtFZr/+kho7uzx1Egnz50Z0GBjmkjZI60YEeQs=;
+ b=pAgZwa/TE2rHZc1pC0lFXz/u7dLdawt/PRvDHj0ThXTSnUnR4EHbAj2VvWLuV6DV0S
+ AHGQsFBKYT0sHE7D9HeqkAT52eC7JIOPXDfSx5qmYI2KBlw14iLA7Lz1QJcqe9JYEawx
+ M7fijizXpCl82uozoDSz20wsW4e4WtUwoFXqFRFsctIg7OTtnkz/jQjxlsSX26yBqnk8
+ eyNyUJYvOUW6maTVz4kTwDcivvBTV+10TveVlSt+/3Ge8vQgwPyxb/7NE8fuPxAr2+ZF
+ 0Uy9mi+g+a/a13dimwSYKDEfGQjiLkmntLay9BEOCDgCLg69xrvw4oeBVh2ljYkRdTbp
+ mJOg==
+Received: by 10.50.140.74 with SMTP id re10mr12632999igb.52.1347464161700;
+ Wed, 12 Sep 2012 08:36:01 -0700 (PDT)
+Received: from mgm6aedv7m.rackspace.com ([50.56.228.48])
+ by mx.google.com with ESMTPS id i17sm5332875igd.5.2012.09.12.08.35.58
+ (version=TLSv1/SSLv3 cipher=OTHER);
+ Wed, 12 Sep 2012 08:35:58 -0700 (PDT)
+From: Ed Leafe <edleafe@gmail.com>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Message-Id: <1BE2A110-25DE-4DA1-A15B-6DA597761C3A@gmail.com>
+Date: Wed, 12 Sep 2012 10:35:57 -0500
+To: testing@edleafe.us
+Mime-Version: 1.0 (Mac OS X Mail 6.0 \(1486\))
+X-Mailer: Apple Mail (2.1486)
+X-Mailman-Approved-At: Wed, 12 Sep 2012 18:56:21 +0000
+Subject: [Testing] fourth post
+X-BeenThere: testing@edleafe.us
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: <testing.edleafe.us>
+List-Unsubscribe: <http://mailserver/mailman/options/testing>,
+ <mailto:testing-request@edleafe.us?subject=unsubscribe>
+List-Archive: <http://mailserver/pipermail/testing/>
+List-Post: <mailto:testing@edleafe.us>
+List-Help: <mailto:testing-request@edleafe.us?subject=help>
+List-Subscribe: <http://mailserver/mailman/listinfo/testing>,
+ <mailto:testing-request@edleafe.us?subject=subscribe>
+
+totally awesome if this works!
+
+-- Ed
+
+From edleafe@gmail.com  Wed Sep 12 16:11:08 2012
+Return-Path: <edleafe@gmail.com>
+X-Original-To: testing@edleafe.us
+Delivered-To: testing@edleafe.us
+Received: from mail-yx0-f174.google.com (mail-yx0-f174.google.com
+ [209.85.213.174])
+ by mailserver.edleafe.us (Postfix) with ESMTPS id E8B1E1805A
+ for <testing@edleafe.us>; Wed, 12 Sep 2012 16:11:07 +0000 (UTC)
+Received: by yenl14 with SMTP id l14so420181yen.5
+ for <testing@edleafe.us>; Wed, 12 Sep 2012 09:11:06 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+ h=from:content-type:content-transfer-encoding:subject:message-id:date
+ :to:mime-version:x-mailer;
+ bh=uW0WzEtFZr/+kho7uzx1Egnz50Z0GBjmkjZI60YEeQs=;
+ b=aAvykAFZaJsXg5/ksZSF4T8hf8/Wxt23M0SkJopK2oxyVGNqE+n6g503apourVwVuw
+ SgFX1ylWkhkS1T5qKh1AYrk18oP+Nwj1JBLUV7s0mL9OB5y5yhsuOHdh9YevTZWNS3I0
+ +md8vxZWXJzkQ+AuH/FdvYmBMOPO+n8vmoF/h5kJv6/wQjspP3Lb/Wn1hsshQFMOVA/v
+ xVUOTRF0/7i++bzlvaxsuTdOjw6v1DAcO7HXlLpwrCmboS9nnI/P4/2vRKXq7GiG+l3J
+ Vfkj03JcWP2Z3PE3MBHzQKMix0aSHGZYHGYemJoprL6dztxNZNBWpzfNTMCoLumTPw+x
+ 7SnQ==
+Received: by 10.236.143.237 with SMTP id l73mr20606157yhj.68.1347466265794;
+ Wed, 12 Sep 2012 09:11:05 -0700 (PDT)
+Received: from mgm6aedv7m.rackspace.com ([50.56.228.48])
+ by mx.google.com with ESMTPS id a79sm36679742yhk.16.2012.09.12.09.10.48
+ (version=TLSv1/SSLv3 cipher=OTHER);
+ Wed, 12 Sep 2012 09:11:04 -0700 (PDT)
+From: Ed Leafe <edleafe@gmail.com>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Message-Id: <89D16892-47BA-4FF3-975D-B40FEC42D1D6@gmail.com>
+Date: Wed, 12 Sep 2012 11:10:47 -0500
+To: "testing@edleafe.us" <testing@edleafe.us>
+Mime-Version: 1.0 (Mac OS X Mail 6.0 \(1486\))
+X-Mailer: Apple Mail (2.1486)
+X-Mailman-Approved-At: Wed, 12 Sep 2012 18:56:21 +0000
+Subject: [Testing] fifth post
+X-BeenThere: testing@edleafe.us
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: <testing.edleafe.us>
+List-Unsubscribe: <http://mailserver/mailman/options/testing>,
+ <mailto:testing-request@edleafe.us?subject=unsubscribe>
+List-Archive: <http://mailserver/pipermail/testing/>
+List-Post: <mailto:testing@edleafe.us>
+List-Help: <mailto:testing-request@edleafe.us?subject=help>
+List-Subscribe: <http://mailserver/mailman/listinfo/testing>,
+ <mailto:testing-request@edleafe.us?subject=subscribe>
+
+totally awesome if this works!
+
+-- Ed
+
+From ed@edleafe.us  Wed Sep 12 16:53:37 2012
+Return-Path: <ed@edleafe.us>
+X-Original-To: testing@mailserver
+Delivered-To: testing@mailserver
+Received: by mailserver.edleafe.us (Postfix, from userid 1000)
+ id 107A21805D; Wed, 12 Sep 2012 16:53:37 +0000 (UTC)
+To: <testing@mailserver>
+X-Mailer: mail (GNU Mailutils 2.2)
+Message-Id: <20120912165337.107A21805D@mailserver.edleafe.us>
+Date: Wed, 12 Sep 2012 16:53:37 +0000 (UTC)
+From: ed@edleafe.us (Ed Leafe)
+X-Mailman-Approved-At: Wed, 12 Sep 2012 18:56:21 +0000
+Subject: [Testing] local
+X-BeenThere: testing@edleafe.us
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: <testing.edleafe.us>
+List-Unsubscribe: <http://mailserver/mailman/options/testing>,
+ <mailto:testing-request@edleafe.us?subject=unsubscribe>
+List-Archive: <http://mailserver/pipermail/testing/>
+List-Post: <mailto:testing@edleafe.us>
+List-Help: <mailto:testing-request@edleafe.us?subject=help>
+List-Subscribe: <http://mailserver/mailman/listinfo/testing>,
+ <mailto:testing-request@edleafe.us?subject=subscribe>
+
+direct post from mail util
+
+From ed@edleafe.us  Wed Sep 12 21:08:30 2012
+Return-Path: <ed@edleafe.us>
+X-Original-To: testing@mailserver
+Delivered-To: testing@mailserver
+Received: by mailserver.edleafe.us (Postfix, from userid 1000)
+ id 4F5ED1805D; Wed, 12 Sep 2012 21:08:30 +0000 (UTC)
+To: <testing@mailserver>
+X-Mailer: mail (GNU Mailutils 2.2)
+Message-Id: <20120912210830.4F5ED1805D@mailserver.edleafe.us>
+Date: Wed, 12 Sep 2012 21:08:30 +0000 (UTC)
+From: ed@edleafe.us (Ed Leafe)
+X-Mailman-Approved-At: Wed, 12 Sep 2012 21:10:17 +0000
+Subject: [Testing] should get stuck for approval
+X-BeenThere: testing@edleafe.us
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: <testing.edleafe.us>
+List-Unsubscribe: <http://mailserver/mailman/options/testing>,
+ <mailto:testing-request@edleafe.us?subject=unsubscribe>
+List-Archive: <http://mailserver/pipermail/testing/>
+List-Post: <mailto:testing@edleafe.us>
+List-Help: <mailto:testing-request@edleafe.us?subject=help>
+List-Subscribe: <http://mailserver/mailman/listinfo/testing>,
+ <mailto:testing-request@edleafe.us?subject=subscribe>
+
+seeing how the testing queue is working...
+
+wowowowow
+
+From edleafe@gmail.com  Wed Sep 12 21:12:08 2012
+Return-Path: <edleafe@gmail.com>
+X-Original-To: testing@edleafe.us
+Delivered-To: testing@edleafe.us
+Received: from mail-ob0-f174.google.com (mail-ob0-f174.google.com
+ [209.85.214.174])
+ by mailserver.edleafe.us (Postfix) with ESMTPS id 8A84E1805A;
+ Wed, 12 Sep 2012 21:12:08 +0000 (UTC)
+Received: by obbuo13 with SMTP id uo13so3730092obb.5
+ for <multiple recipients>; Wed, 12 Sep 2012 14:12:06 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+ h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+ :cc:content-type;
+ bh=W4ejQcSE5hZGtUJh5yRbQS2mk7hES7dzRFEPsn1+dnE=;
+ b=K/msM4N51i1oewheebuv0PusIgNzXWESFuCr0pB0vhaWWTgkwIT3JpXJ0NMu1FAHlf
+ vFNBu0pgyeJgH8ioyuhGnMc81MgNFXSYF5XVKqaSWdm3XQlRvRdALJCiOnXuCLUF15x+
+ yiV5GIdVBxT9VnfzMlIaz/zCz5XwNJJTORMljpCt2r4L/H/TvN9uLnvb3ajzuJoM8R8M
+ UkcHKtkaSimmayW/eRDbiYQSTvHS8Bcq7B1PTO8fsowd9M88S4Cw9HNqCBZVnUexw+n1
+ m6HVVItRlVFtVIyUOhZv6qCPbpOmLsXMs3Vju8hq6a/T1GpBHpCGitZJI2OHOVMrSwbI
+ psVQ==
+Received: by 10.60.7.138 with SMTP id j10mr24009667oea.104.1347484326350; Wed,
+ 12 Sep 2012 14:12:06 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.76.2.134 with HTTP; Wed, 12 Sep 2012 14:11:46 -0700 (PDT)
+In-Reply-To: <20120912165337.107A21805D@mailserver.edleafe.us>
+References: <20120912165337.107A21805D@mailserver.edleafe.us>
+From: Ed Leafe <edleafe@gmail.com>
+Date: Wed, 12 Sep 2012 16:11:46 -0500
+Message-ID: <CAK3GMPXC4mPvxEv3ghZZSeiPLjc-P6ABgV73cumWuxRyrkJQeg@mail.gmail.com>
+To: Ed Leafe <ed@edleafe.us>
+Content-Type: multipart/alternative; boundary=e89a8ff251449ccd9b04c987a4ca
+X-Mailman-Approved-At: Wed, 12 Sep 2012 21:18:43 +0000
+Cc: testing@edleafe.us
+Subject: Re: [Testing] local
+X-BeenThere: testing@edleafe.us
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: <testing.edleafe.us>
+List-Unsubscribe: <http://mailserver/mailman/options/testing>,
+ <mailto:testing-request@edleafe.us?subject=unsubscribe>
+List-Archive: <http://mailserver/pipermail/testing/>
+List-Post: <mailto:testing@edleafe.us>
+List-Help: <mailto:testing-request@edleafe.us?subject=help>
+List-Subscribe: <http://mailserver/mailman/listinfo/testing>,
+ <mailto:testing-request@edleafe.us?subject=subscribe>
+
+--e89a8ff251449ccd9b04c987a4ca
+Content-Type: text/plain; charset=UTF-8
+
+Here's a reply!
+
+On Wed, Sep 12, 2012 at 11:53 AM, Ed Leafe <ed@edleafe.us> wrote:
+
+> direct post from mail util
+> _______________________________________________
+> Testing mailing list
+> Testing@edleafe.us
+> http://mailserver/mailman/listinfo/testing
+>
+
+
+
+-- 
+
+     ___/
+    /
+   __/
+  /
+ ____/
+ Ed Leafe
+ http://leafe.com/
+ http://dabodev.com/
+
+--e89a8ff251449ccd9b04c987a4ca
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Here&#39;s a reply!<br><br><div class=3D"gmail_quote">On Wed, Sep 12, 2012 =
+at 11:53 AM, Ed Leafe <span dir=3D"ltr">&lt;<a href=3D"mailto:ed@edleafe.us=
+" target=3D"_blank">ed@edleafe.us</a>&gt;</span> wrote:<br><blockquote clas=
+s=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;pad=
+ding-left:1ex">
+
+direct post from mail util<br>
+_______________________________________________<br>
+Testing mailing list<br>
+<a href=3D"mailto:Testing@edleafe.us">Testing@edleafe.us</a><br>
+<a href=3D"http://mailserver/mailman/listinfo/testing" target=3D"_blank">ht=
+tp://mailserver/mailman/listinfo/testing</a><br>
+</blockquote></div><br><br clear=3D"all"><div><br></div>-- <br><br>=C2=A0 =
+=C2=A0=C2=A0 ___/<br>=C2=A0 =C2=A0 /<br>=C2=A0=C2=A0 __/<br>=C2=A0 /<br>=C2=
+=A0____/<br>=C2=A0Ed Leafe<br>=C2=A0<a href=3D"http://leafe.com/">http://le=
+afe.com/</a><br>=C2=A0<a href=3D"http://dabodev.com/">http://dabodev.com/</=
+a><br>
+
+<br><br>
+
+--e89a8ff251449ccd9b04c987a4ca--
+
+From ed@edleafe.us  Wed Sep 12 21:20:18 2012
+Return-Path: <ed@edleafe.us>
+X-Original-To: testing@mailserver
+Delivered-To: testing@mailserver
+Received: by mailserver.edleafe.us (Postfix, from userid 1000)
+ id 633691805D; Wed, 12 Sep 2012 21:20:18 +0000 (UTC)
+To: <testing@mailserver>
+X-Mailer: mail (GNU Mailutils 2.2)
+Message-Id: <20120912212018.633691805D@mailserver.edleafe.us>
+Date: Wed, 12 Sep 2012 21:20:18 +0000 (UTC)
+From: ed@edleafe.us (Ed Leafe)
+X-Mailman-Approved-At: Wed, 12 Sep 2012 21:20:32 +0000
+Subject: [Testing] another test
+X-BeenThere: testing@edleafe.us
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: <testing.edleafe.us>
+List-Unsubscribe: <http://mailserver/mailman/options/testing>,
+ <mailto:testing-request@edleafe.us?subject=unsubscribe>
+List-Archive: <http://mailserver/pipermail/testing/>
+List-Post: <mailto:testing@edleafe.us>
+List-Help: <mailto:testing-request@edleafe.us?subject=help>
+List-Subscribe: <http://mailserver/mailman/listinfo/testing>,
+ <mailto:testing-request@edleafe.us?subject=subscribe>
+
+just another test
+sd
+sd
+dsf
+sd
+
+dg
+wrgh
+wrg
+wrg
+wrg
+wrgh
+wrgh
+wrh
+ertjh
+eth
+sg
+dfn
+dfnb
+swdg
+waef
+a
+
+From ed@leafe.com  Sat Sep 15 18:32:03 2012
+Return-Path: <ed@leafe.com>
+X-Original-To: testing@leafe.com
+Delivered-To: testing@leafe.com
+Received: from [192.168.1.69] (75-1-147-129.lightspeed.snantx.sbcglobal.net
+ [75.1.147.129]) by mail.leafe.com (Postfix) with ESMTPS id 1943518069
+ for <testing@leafe.com>; Sat, 15 Sep 2012 18:32:03 -0500 (CDT)
+From: Ed Leafe <ed@leafe.com>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Message-Id: <CBDE0B97-4720-484A-A1F5-058417C20120@leafe.com>
+Date: Sat, 15 Sep 2012 18:32:02 -0500
+To: testing@leafe.com
+Mime-Version: 1.0 (Mac OS X Mail 6.0 \(1486\))
+X-Mailer: Apple Mail (2.1486)
+X-Mailman-Approved-At: Sat, 15 Sep 2012 18:32:43 -0500
+Subject: [Testing] Post
+X-BeenThere: testing@edleafe.us
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: <testing.edleafe.us>
+List-Unsubscribe: <http://mailserver/mailman/options/testing>,
+ <mailto:testing-request@edleafe.us?subject=unsubscribe>
+List-Archive: <http://mailserver/pipermail/testing/>
+List-Post: <mailto:testing@edleafe.us>
+List-Help: <mailto:testing-request@edleafe.us?subject=help>
+List-Subscribe: <http://mailserver/mailman/listinfo/testing>,
+ <mailto:testing-request@edleafe.us?subject=subscribe>
+
+First post
+
+From ed@leafe.com  Sat Sep 15 21:01:36 2012
+Return-Path: <ed@leafe.com>
+X-Original-To: testing@leafe.com
+Delivered-To: testing@leafe.com
+Received: from [192.168.1.69] (75-1-147-129.lightspeed.snantx.sbcglobal.net
+ [75.1.147.129]) by mail.leafe.com (Postfix) with ESMTPS id 98F0318069
+ for <testing@leafe.com>; Sat, 15 Sep 2012 21:01:36 -0500 (CDT)
+From: Ed Leafe <ed@leafe.com>
+Message-Id: <3F821B99-FB09-409C-BEEA-B157871C4B82@leafe.com>
+Date: Sat, 15 Sep 2012 21:01:35 -0500
+To: "testing@leafe.com" <testing@leafe.com>
+Mime-Version: 1.0 (Mac OS X Mail 6.0 \(1486\))
+X-Mailer: Apple Mail (2.1486)
+X-Spambayes-Classification: ham; 0.09
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=us-ascii
+X-Mailman-Approved-At: Sat, 15 Sep 2012 21:02:21 -0500
+Subject: [Testing] [ADMIN] Third test
+X-BeenThere: testing@edleafe.us
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: <testing.edleafe.us>
+List-Unsubscribe: <http://mailserver/mailman/options/testing>,
+ <mailto:testing-request@edleafe.us?subject=unsubscribe>
+List-Archive: <http://mailserver/pipermail/testing/>
+List-Post: <mailto:testing@edleafe.us>
+List-Help: <mailto:testing-request@edleafe.us?subject=help>
+List-Subscribe: <http://mailserver/mailman/listinfo/testing>,
+ <mailto:testing-request@edleafe.us?subject=subscribe>
+
+	Mail is going through, but it's not getting archived. Still digging...
+
+
+-- Ed Leafe
+
+
+From ed@leafe.com  Sat Sep 15 21:06:00 2012
+Return-Path: <ed@leafe.com>
+X-Original-To: testing@leafe.com
+Delivered-To: testing@leafe.com
+Received: from [192.168.1.69] (75-1-147-129.lightspeed.snantx.sbcglobal.net
+ [75.1.147.129]) by mail.leafe.com (Postfix) with ESMTPS id 81C2818069
+ for <testing@leafe.com>; Sat, 15 Sep 2012 21:06:00 -0500 (CDT)
+From: Ed Leafe <ed@leafe.com>
+Message-Id: <9823B162-384F-48E7-ABA4-44C628A0448E@leafe.com>
+Date: Sat, 15 Sep 2012 21:06:00 -0500
+To: "testing@leafe.com" <testing@leafe.com>
+Mime-Version: 1.0 (Mac OS X Mail 6.0 \(1486\))
+X-Mailer: Apple Mail (2.1486)
+X-Spambayes-Classification: ham; 0.09
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=us-ascii
+X-Mailman-Approved-At: Sat, 15 Sep 2012 21:06:42 -0500
+Subject: [Testing] [ADMIN] Third test
+X-BeenThere: testing@edleafe.us
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: <testing.edleafe.us>
+List-Unsubscribe: <http://mailserver/mailman/options/testing>,
+ <mailto:testing-request@edleafe.us?subject=unsubscribe>
+List-Archive: <http://mailserver/pipermail/testing/>
+List-Post: <mailto:testing@edleafe.us>
+List-Help: <mailto:testing-request@edleafe.us?subject=help>
+List-Subscribe: <http://mailserver/mailman/listinfo/testing>,
+ <mailto:testing-request@edleafe.us?subject=subscribe>
+
+	Mail is going through, but it's not getting archived. Still digging...
+
+
+-- Ed Leafe
+
+
+From ed@leafe.com  Sat Sep 15 21:40:44 2012
+Return-Path: <ed@leafe.com>
+X-Original-To: testing@leafe.com
+Delivered-To: testing@leafe.com
+Received: from [192.168.1.69] (75-1-147-129.lightspeed.snantx.sbcglobal.net
+ [75.1.147.129]) by mail.leafe.com (Postfix) with ESMTPS id 8309318069
+ for <testing@leafe.com>; Sat, 15 Sep 2012 21:40:44 -0500 (CDT)
+From: Ed Leafe <ed@leafe.com>
+Message-Id: <BFA26455-B07B-42D4-8DC6-43515D2ABB68@leafe.com>
+Date: Sat, 15 Sep 2012 21:40:43 -0500
+To: "testing@leafe.com" <testing@leafe.com>
+Mime-Version: 1.0 (Mac OS X Mail 6.0 \(1486\))
+X-Mailer: Apple Mail (2.1486)
+X-Spambayes-Classification: ham; 0.09
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=us-ascii
+Subject: [Testing] [ADMIN] Third test
+X-BeenThere: testing@edleafe.us
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: <testing.edleafe.us>
+List-Unsubscribe: <http://mailserver/mailman/options/testing>,
+ <mailto:testing-request@edleafe.us?subject=unsubscribe>
+List-Archive: <http://mailserver/pipermail/testing/>
+List-Post: <mailto:testing@edleafe.us>
+List-Help: <mailto:testing-request@edleafe.us?subject=help>
+List-Subscribe: <http://mailserver/mailman/listinfo/testing>,
+ <mailto:testing-request@edleafe.us?subject=subscribe>
+
+	Mail is going through, but it's not getting archived. Still digging...
+
+	mysqldb??
+
+-- Ed Leafe
+
+

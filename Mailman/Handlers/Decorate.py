@@ -44,7 +44,7 @@ def process(mlist, msg, msgdata):
         return
     d = {}
     # EGL: Hack to make Message-Id available
-    cleanMessageID = msg.get("Message-Id").replace("<", "").replace(">", "")
+    cleanMessageID = msg.get("Message-Id", "").replace("<", "").replace(">", "")
     d["listmsgid"] = "%s/%s" % (msgdata.get("listname"), cleanMessageID)
     d["messageid"] = cleanMessageID
     if msgdata.get('personalize'):

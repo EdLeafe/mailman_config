@@ -47,7 +47,7 @@ def addToArchive(listName, crs=None, fromScript=0):
 	global marker, msg_text
 	msg_text = getMsg()
 	msg = email.message_from_string(msg_text)
-#	file("/var/dummylogs/arch.msg", "a").write("LENTXT: %s\nTXT: %s\n" % 
+#	file("/var/dummylogs/arch.msg", "a").write("LENTXT: %s\nTXT: %s\n" %
 #			(len(msg_text), msg))
 
 	marker = "initial"
@@ -74,7 +74,7 @@ def addToArchive(listName, crs=None, fromScript=0):
 		file("/var/dummylogs/arch.debug", "a").write("Can't encode: %s; %s\n" %
 				(type(e), e))
 		
-#	file("/var/dummylogs/arch.msg", "a").write("LENBODY: %s\nLENDBOD: %s\n\n" % 
+#	file("/var/dummylogs/arch.msg", "a").write("LENBODY: %s\nLENDBOD: %s\n\n" %
 #			(len(body), len(dbody)))
 	body = stripBody(body)
 	dbody = stripBody(dbody)
@@ -95,16 +95,19 @@ def addToArchive(listName, crs=None, fromScript=0):
 	createCursor = (crs is None)
 	for host in ("cloud-webdata", "leafe.com"):
 		if createCursor:
-			db=MySQLdb.connect(host=host, user="mysql", 
-				passwd="fil0farn", db="webdata", charset="utf8")
-			crs = db.cursor()
+			try:
+				db=MySQLdb.connect(host=host, user="mysql",
+					passwd="fil0farn", db="webdata", charset="utf8")
+				crs = db.cursor()
+			except Exception:
+				continue
 
 #		file("/var/dummylogs/arch.debug", "a").write("Connecting with host: %s\n" % host)
 		marker = "before insert"
 #		file("/var/dummylogs/arch.debug", "a").write("LEN INSERT %s\n" % len(dbody))
-		crs.execute("""insert into archive (clist, csubject, cfrom, tposted, 
+		crs.execute("""insert into archive (clist, csubject, cfrom, tposted,
 			cmessageid, creplytoid, mtext)
-			values (%s, %s, %s, %s, %s, %s, %s)""", 
+			values (%s, %s, %s, %s, %s, %s, %s)""",
 			(listAbbrev, subj, fromAddr, dt, msgID, replyToID, dbody))
 
 		try:

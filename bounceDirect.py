@@ -7,7 +7,7 @@ import time
 msg = getMsg.getMsg()
 
 fwdKey = "X-Forwarded-By: OT filtering script"
-okHdr1 = "X-Original-To: profoxxtproxy@leafe.com"
+okHdr1 = "X-Original-To: profoxxtproxynn7@leafe.com"
 okHdr2 = "X-Original-To: profox@leafe.com"
 bounceHdr = "X-Forwarded-By: DIRECT POST"
 emptyHdr = "X-EMPTY-MESSAGE: True"
@@ -16,7 +16,7 @@ ret = msg
 def logit(*args):
     txt = " ".join(["%s" % arg for arg in args])
     with open("/var/dummylogs/BD.LOG", "a") as ff:
-        logit("%s\n" % txt)
+        ff.write("%s\n" % txt)
 
 logit("%s - %s (len=%s)\n" % (time.ctime(), msg.find(fwdKey), len(msg)))
 problem = False
@@ -34,7 +34,7 @@ try:
         del eml["X-Forwarded-By"]
         del eml["X-Forwarded-By"]
         eml["X-Forwarded-By"] = "DIRECT POST"
-        msg = eml.as_string()
+        ret = eml.as_string()
         problem = True
     if not problem:
         logit("\n------msg-----------\n")
